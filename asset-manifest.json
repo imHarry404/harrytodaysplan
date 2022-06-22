@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harrytodaysplan/static/css/main.3e6481b8.css",
+    "main.js": "/harrytodaysplan/static/js/main.10162c96.js",
+    "static/js/787.2afbd57d.chunk.js": "/harrytodaysplan/static/js/787.2afbd57d.chunk.js",
+    "index.html": "/harrytodaysplan/index.html",
+    "main.3e6481b8.css.map": "/harrytodaysplan/static/css/main.3e6481b8.css.map",
+    "main.10162c96.js.map": "/harrytodaysplan/static/js/main.10162c96.js.map",
+    "787.2afbd57d.chunk.js.map": "/harrytodaysplan/static/js/787.2afbd57d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e6481b8.css",
+    "static/js/main.10162c96.js"
+  ]
+}
